@@ -8,4 +8,4 @@ Run `npm start` to put make the application available on [http://localhost:3000]
 This application had been started with _create-react-app_ and so all React scripts are available. 
 
 ### Feather Icons 
-All svg icons used here had been sourced by [https://feathericons.com/](https://feathericons.com/).
+All svg icons used here has been provided by [https://feathericons.com/](https://feathericons.com/).
