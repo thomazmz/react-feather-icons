@@ -4,9 +4,6 @@ This project is a simple React app to test some ways of loading embeded svg icon
 
 This application had been started with _create-react-app_ and so all React scripts are available.
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Run `npm start` to put make the application available on [http://localhost:3000](http://localhost:3000).
 
 
